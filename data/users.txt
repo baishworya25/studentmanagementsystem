@@ -1,0 +1,5 @@
+STU001,diksha,diksha_t,dikshat@gmail.com,student
+STU002,aishworya,aishworya,aishworya@email.com,student
+STU003,grishma,grishma,grishma@email.com,student
+STU004,anusha,anusha,anusha@email.com,student
+ADM001,admin,Admin User,admin@school.edu,admin

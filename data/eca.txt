@@ -1,0 +1,4 @@
+STU001,Debate Club,Football
+STU002,Music Club,Chess
+STU003,Dance Club,Clasical
+STU004,Gaming Club,Combact
